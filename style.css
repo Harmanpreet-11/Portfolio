@@ -339,13 +339,11 @@ section {
   flex-wrap: wrap;
   flex-direction: row;
   gap: 2.5rem;
-  justify-content: space-around;
 }
 
 article {
   display: flex;
   width: 10rem;
-  justify-content: space-around;
   gap: 0.5rem;
 }
 
@@ -373,6 +371,7 @@ article .icon {
 .project-title {
   margin: 1rem;
   color: black;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .project-btn {
