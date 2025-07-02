@@ -9,6 +9,8 @@ export const SkillsMarquee = () => {
     { name: "Node.js", src: "/src/assets/skills/nodejs.png" },
     { name: "React", src: "/src/assets/skills/react.png" },
     { name: "Express", src: "/src/assets/skills/expressjs.png" },
+    { name: "C", src: "/src/assets/skills/c.png" },
+    { name: "C++", src: "/src/assets/skills/c++.png" },
     { name: "Bootstrap", src: "/src/assets/skills/bootstrap.png" },
     { name: "Tailwind CSS", src: "/src/assets/skills/tailwindcss.png" },
     { name: "MySQL", src: "/src/assets/skills/mySQL.png" },
