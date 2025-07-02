@@ -78,7 +78,7 @@ export const Projects = () => {
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="https://github.com/Harmanpreet-11/Bloggin-App"
+                  href="https://github.com/Harmanpreet-11/Blogger-App"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
