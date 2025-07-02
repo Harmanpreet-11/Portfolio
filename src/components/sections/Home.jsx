@@ -11,7 +11,7 @@ export const Home = () => {
           
           <div className="flex justify-center">
             <img
-              src="/src/assets/profile_picture_harman.jpg" 
+              src="/assets/profile_picture_harman.jpg" 
               alt="Harmanpreet Singh"
               className="w-40 h-40 sm:w-60 sm:h-60 md:w-72 md:h-72 lg:w-84 lg:h-84 rounded-full object-cover shadow-[0_0_30px_rgba(59,130,246,0.6)] hover:scale-105 transition-transform duration-300"
             />

@@ -3,18 +3,18 @@ import { RevealOnScroll } from "../RevealOnScroll";
 
 export const SkillsMarquee = () => {
   const skillLogos = [
-    { name: "HTML5", src: "/src/assets/skills/html.png" },
-    { name: "CSS3", src: "/src/assets/skills/css3.png" },
-    { name: "JavaScript", src: "/src/assets/skills/javascript.png" },
-    { name: "Node.js", src: "/src/assets/skills/nodejs.png" },
-    { name: "React", src: "/src/assets/skills/react.png" },
-    { name: "Express", src: "/src/assets/skills/expressjs.png" },
-    { name: "C", src: "/src/assets/skills/c.png" },
-    { name: "C++", src: "/src/assets/skills/c++.png" },
-    { name: "Bootstrap", src: "/src/assets/skills/bootstrap.png" },
-    { name: "Tailwind CSS", src: "/src/assets/skills/tailwindcss.png" },
-    { name: "MySQL", src: "/src/assets/skills/mySQL.png" },
-    { name: "MongoDB", src: "/src/assets/skills/mongodb.png" },
+    { name: "HTML5", src: "/assets/skills/html.png" },
+    { name: "CSS3", src: "/assets/skills/css3.png" },
+    { name: "JavaScript", src: "/assets/skills/javascript.png" },
+    { name: "Node.js", src: "/assets/skills/nodejs.png" },
+    { name: "React", src: "/assets/skills/react.png" },
+    { name: "Express", src: "/assets/skills/expressjs.png" },
+    { name: "C", src: "/assets/skills/c.png" },
+    { name: "C++", src: "/assets/skills/c++.png" },
+    { name: "Bootstrap", src: "/assets/skills/bootstrap.png" },
+    { name: "Tailwind CSS", src: "/assets/skills/tailwindcss.png" },
+    { name: "MySQL", src: "/assets/skills/mySQL.png" },
+    { name: "MongoDB", src: "/assets/skills/mongodb.png" },
   ];
 
   return (
