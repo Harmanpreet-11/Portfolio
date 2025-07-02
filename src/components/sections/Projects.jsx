@@ -98,7 +98,7 @@ export const Projects = () => {
             >
               <h3 className="text-xl font-bold mb-2">Youtube Autopause - Extension</h3>
               <p className="text-gray-400 mb-4">
-                A powerfull chrome Extension for autoplaying youtube video's, build using Javascript , where you can switch tabs while watching Youtube without manually pausing and replaying the video.
+                ➞ A powerfull chrome Extension for autoplaying youtube video's, build using Javascript , where you can switch tabs while watching Youtube without manually pausing and replaying the video.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["Javascript"].map(
@@ -140,7 +140,7 @@ export const Projects = () => {
             >
               <h3 className="text-xl font-bold mb-2">Portfolio Website</h3>
               <p className="text-gray-400 mb-4">
-                My Personal Portfolio Website built to showcase all my Skill's and Interests.
+                ➞ My Personal Portfolio Website built to showcase all my Skill's and Interests.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["React", "Vite", "JavaScript","TailwindCSS"].map((tech, key) => (

@@ -18,7 +18,7 @@ export const SkillsMarquee = () => {
   ];
 
   return (
-    <section id="skills-marquee" className="py-20 bg-black overflow-x-hidden">
+    <section id="skills-marquee" className="py-20 bg-black ">
       <RevealOnScroll>
       <h2 className="text-4xl font-extrabold mb-12 text-center bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
         Core Technologies

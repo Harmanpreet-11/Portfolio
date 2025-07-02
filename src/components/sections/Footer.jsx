@@ -4,7 +4,7 @@ export const Footer = () => {
   return (
   
     <footer className="bg-black py-4 w-full">
-      <div className="max-w-6xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between">
+      <div className=" max-w-6xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between">
 
         <p className="text-sm text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">
           © Harmanpreet 2025. All rights reserved.
